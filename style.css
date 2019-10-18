@@ -1,0 +1,286 @@
+a, p
+{
+    text-decoration: none;
+    padding-left: 20px;
+    font-size: 17px;
+    font-family: "Trebuchet MS";
+    color: rgb(23, 83, 151)
+}
+img
+{
+    float: left;
+    width: 8%;
+    height: 8%;
+    padding-left: 3%;
+}
+.menu
+{
+    padding-left: 45%;
+    text-align: center;
+}
+li, .myname
+{
+    display: inline-block;
+}
+.myname
+{
+    padding-left: 15%;
+}
+.cpr, .ullogo
+{
+    display: inline-block;
+}
+.twi, .lin, .insta
+{
+    display: inline-block;
+}
+footer
+{
+    bottom: 0;
+	position: fixed;
+    width: 98.8%;
+    height: 15%;
+    background-image: url('back.PNG');
+}
+.ullogo
+{
+    text-align: center;
+    padding-left: 30%;
+}
+.outer-div
+{
+     height: 713px;
+     overflow: hidden; 
+}
+.inner-div
+{
+     height: 100%;
+     width: 100%;
+     background-position: 100% 100%;
+     background-size: cover;
+     transition: all 2.0s ease-in;
+     background-image: url('abds.jpg');
+}
+.inner-div:hover
+{
+     transform: scale(1.4);
+}
+.tphp, .fphp
+{
+    text-align: center;
+    display: inline-block;
+    color: white;
+}
+.fphp
+{
+    padding-left: 20%;
+    padding-top: 25%;
+}
+.about
+{
+    width: 99%;
+    height: 100%;
+    background-image: url('Background.jpg');
+    position: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+/* AFFICHAGE DES IMAGE REGLEMENT DE TAILLE ET ALIGNEMENT */
+.img, .img2, .img3, .img4, .img5, .img6
+{
+    float: center;
+    width: 60%;
+    height: 60%;
+    padding-left: 5%;
+    padding-right: 2%;
+}
+.projet, .titre, .img, .data
+{
+    display: inline-block;
+
+}
+
+
+/*PROJET 2 CSS AFFICHAGE EN ABSOLUE*/
+
+
+.projet2, .title2, .img2, .data2
+{
+    display: inline;
+}
+.data2
+{
+    position: absolute;
+    bottom: 5%;
+    left: 68%;
+}
+.data21
+{
+    position: absolute;
+    bottom: 0%;
+    left: 68%;
+}
+.data22
+{
+    position: absolute;
+    bottom: -5%;
+    left: 68%;
+}
+.projet2
+{
+    position: absolute;
+    bottom: 10%;
+    left: 68%;
+}
+.title2
+{
+    position: absolute;
+    bottom: 10%;
+    left: 78%;
+}
+
+/*PROJET 3 CSS AFFICHAGE EN ABSOLUE*/
+
+.projet3, .title3, .img3, .data3
+{
+    display: inline;
+}
+.data3
+{
+    position: absolute;
+    bottom: -40%;
+    left: 68%;
+}
+.data33
+{
+    position: absolute;
+    bottom: -45%;
+    left: 68%;
+}
+.data34
+{
+    position: absolute;
+    bottom: -50%;
+    left: 68%;
+}
+.projet3
+{
+    position: absolute;
+    bottom: -35%;
+    left: 68%;
+}
+.title3
+{
+    position: absolute;
+    bottom: -35%;
+    left: 78%;
+}
+
+/*PROJET 4 CSS AFFICHAGE EN ABSOLUE*/
+
+.projet4, .title4, .img4, .data4
+{
+    display: inline;
+}
+.data4
+{
+    position: absolute;
+    bottom: -100%;
+    left: 68%;
+}
+.data44
+{
+    position: absolute;
+    bottom: -105%;
+    left: 68%;
+}
+.data45
+{
+    position: absolute;
+    bottom: -110%;
+    left: 68%;
+}
+.projet4
+{
+    position: absolute;
+    bottom: -95%;
+    left: 68%;
+}
+.title4
+{
+    position: absolute;
+    bottom: -95%;
+    left: 78%;
+}
+/*PROJET 5 CSS AFFICHAGE EN ABSOLUE*/
+
+.projet5, .title5, .img5, .data5
+{
+    display: inline;
+}
+.data5
+{
+    position: absolute;
+    bottom: -165%;
+    left: 68%;
+}
+.data55
+{
+    position: absolute;
+    bottom: -170%;
+    left: 68%;
+}
+.data56
+{
+    position: absolute;
+    bottom: -175%;
+    left: 68%;
+}
+.projet5
+{
+    position: absolute;
+    bottom: -158%;
+    left: 68%;
+}
+.title5
+{
+    position: absolute;
+    bottom: -158%;
+    left: 78%;
+}
+/*PROJET 6 CSS AFFICHAGE EN ABSOLUE*/
+
+.projet6, .title6, .img6, .data6
+{
+    display: inline;
+}
+.data6
+{
+    position: absolute;
+    bottom: -235%;
+    left: 68%;
+}
+.data65
+{
+    position: absolute;
+    bottom: -240%;
+    left: 68%;
+}
+.data66
+{
+    position: absolute;
+    bottom: -245%;
+    left: 68%;
+}
+.projet6
+{
+    position: absolute;
+    bottom: -230%;
+    left: 68%;
+}
+.title6
+{
+    position: absolute;
+    bottom: -230%;
+    left: 78%;
+}
